@@ -92,12 +92,13 @@ npm run dev
 - Frontend: [http://localhost:3000](http://localhost:3000)
 - Backend API: [http://localhost:8080](http://localhost:8080) *(or your configured port)*
 
-🔑 Login Credentials
-Role	Username	Password
-Student	student1	password123
-Professor	professor1	securepass456
-📌 Note: You can update or create new users in the database as needed.
----
+### 🔑 Login Credentials
+
+| Role       | Username     | Password       |
+|------------|-------------|---------------|
+| **Student**  | `student1`  | `password123` |
+| **Professor** | `professor1` | `securepass456` |
+
 
 ## 📝 Development Guidelines
 
