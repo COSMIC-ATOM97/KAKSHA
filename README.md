@@ -96,8 +96,8 @@ npm run dev
 
 | Role       | Username     | Password       |
 |------------|-------------|---------------|
-| **Student**  | `student1`  | `password123` |
-| **Professor** | `professor1` | `securepass456` |
+| **Student**  | `student25@university.edu`  | `Student@STU025` |
+| **Professor** | `professor2@university.edu` | `Professor@PROF002` |
 
 
 ## 📝 Development Guidelines
